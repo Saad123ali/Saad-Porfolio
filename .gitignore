@@ -1,0 +1,12 @@
+node_modules
+/dist/*                # Ignore everything in the dist folder
+!/dist/assets/         # Do not ignore the assets folder
+!/dist/index.html      # Do not ignore the index.html file
+
+index1.html
+input.css
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
+vite.config.js
